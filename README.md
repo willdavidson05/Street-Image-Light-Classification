@@ -24,7 +24,7 @@ Key features of the CNN include:
 - **Optimizer**: Adam optimizer for efficient weight updates.
 - **Loss function**: Categorical crossentropy.
 
-The CNN was trained for **X epochs**, achieving an accuracy of **99.58%** on the test set, slightly outperforming the SVM.
+The CNN was trained for **20 epochs**, achieving an accuracy of **99.58%** on the test set, slightly outperforming the SVM.
 
 ## Evaluation
 
