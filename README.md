@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to classify street light images into three categories: **Red**, **Yellow**, and **Green** using two machine learning models: **Support Vector Machines (SVMs)** and **Convolutional Neural Networks (CNNs)**. The project explores the effectiveness of both models, comparing their performance in classifying images of street lights.
+This project classifies street light images into three categories: **Red**, **Yellow**, and **Green** using two machine learning models: **Support Vector Machines (SVMs)** and **Convolutional Neural Networks (CNNs)**. It explores the effectiveness of both models and compares their performance in classifying images of street lights.
 
 ## Models
 
@@ -15,7 +15,7 @@ The **SVM model** was trained on the street light dataset to classify images int
 
 ### Convolutional Neural Network (CNN)
 
-A **CNN** was implemented to handle the more complex nuances of image data. CNNs are highly effective for image classification tasks, as they can automatically learn spatial hierarchies in images. 
+A **CNN** was implemented to handle the more complex nuances of image data. CNNs are very effective for image classification tasks, due to the fact that they can automatically learn spatial hierarchies in images. 
 
 Key features of the CNN include:
 
